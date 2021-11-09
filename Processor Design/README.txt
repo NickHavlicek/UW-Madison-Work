@@ -1,0 +1,1 @@
+A basic computer processor architecture written module by module starting with the most basic logic gates and ending with a complicated processor capable of executing basic instruction sets. Rigorously tested using unit tests and complex functionality tests. 
