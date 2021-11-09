@@ -1,2 +1,2 @@
 # UW-Madison-Work
-Basically everything that is worth putting on a github.
+Projects and miscelanious homework assignments that I enjoyed.
